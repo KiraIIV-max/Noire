@@ -7,8 +7,8 @@ NOIRÉ is a modern, responsive cafe website created for a premium neighborhood c
 Deployment is ready for Vercel. Add the final Vercel URL here after deployment.
 
 ## Preview
+<img width="1901" height="979" alt="image" src="https://github.com/user-attachments/assets/fb4359f2-eeeb-4922-af80-a452cfbfa80c" />
 
-<img width="1920" alt="NOIRÉ cafe homepage" src="./screenshots/homepage.png" />
 
 ## Project Overview
 

@@ -4,7 +4,9 @@ NOIRÉ is a modern, responsive cafe website created for a premium neighborhood c
 
 ## Live Demo
 
-Deployment is ready for Vercel. Add the final Vercel URL here after deployment.
+**[Visit the live website](https://noire-two-sigma.vercel.app/)**
+
+
 
 ## Preview
 <img width="1901" height="979" alt="image" src="https://github.com/user-attachments/assets/fb4359f2-eeeb-4922-af80-a452cfbfa80c" />

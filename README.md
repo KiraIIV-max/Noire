@@ -6,8 +6,9 @@ NOIRÉ is a modern, responsive cafe website created for a premium neighborhood c
 
 **[Visit the live website](https://noire-mauve.vercel.app/)**
 
-![Uploading image.png…]()
+## Preview
 
+![NOIRÉ cafe homepage preview](./screenshots/homepage.png)
 
 ## Project Overview
 

@@ -8,7 +8,7 @@ Deployment is ready for Vercel. Add the final Vercel URL here after deployment.
 
 ## Preview
 
-![NOIRÉ cafe homepage preview](./screenshots/homepage.png)
+<img width="1920" alt="NOIRÉ cafe homepage" src="./screenshots/homepage.png" />
 
 ## Project Overview
 

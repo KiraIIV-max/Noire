@@ -4,11 +4,11 @@ NOIRÉ is a modern, responsive cafe website created for a premium neighborhood c
 
 ## Live Demo
 
-**[Visit the live website](https://noire-mauve.vercel.app/)**
+Deployment is ready for Vercel. Add the final Vercel URL here after deployment.
 
 ## Preview
 
-![NOIRÉ cafe homepage preview](./screenshots/homepage.png)
+<img width="1920" alt="NOIRÉ cafe homepage" src="./screenshots/homepage.png" />
 
 ## Project Overview
 
@@ -230,11 +230,8 @@ Both commands complete successfully.
 
 ## Deployment
 
-The production site is deployed on Vercel:
-
-```text
-https://noire-mauve.vercel.app/
-```
+The project is ready to deploy on Vercel. Add the new production URL to the
+**Live Demo** section after deployment.
 
 To deploy your own version:
 
